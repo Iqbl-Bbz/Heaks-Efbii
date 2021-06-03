@@ -11,9 +11,7 @@ $ pip install requests bs4 futures
 
 $ pkg install git
 
-$ git clone https://github.com/Iqbl-Bbz/Heak-Efbi
-
-$ ls
+$ git clone https://github.com/Iqbl-Bbz/Heaks-Efbi
 
 $ cd Heaks-Efbii
 
