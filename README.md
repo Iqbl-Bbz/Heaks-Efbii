@@ -5,6 +5,8 @@ $ pkg update && pkg upgrade
 
 $ pkg install python2
 
+$ pkg install python2
+
 $ pip install --upgrade pip
 
 $ pip install requests bs4 futures
