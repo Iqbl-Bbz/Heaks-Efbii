@@ -1,19 +1,3 @@
-# Heaks-Efbii
+Tidack Ada Apa Apa Di Sini Sana Keluar🗿
 
-
-$ pkg update && pkg upgrade
-
-$ pkg install python2
-
-$ pip install --upgrade pip
-
-$ pip install requests bs4 futures
-
-$ pkg install git
-
-$ git clone https://github.com/Iqbl-Bbz/Heaks-Efbi
-
-$ cd Heaks-Efbii
-
-$ python2 do.py
-
+.
